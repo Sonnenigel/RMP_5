@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">practice5</string>
+    <string name="titleMainFragment">Первый фрагмент</string>
+    <string name="titleSendDataToSecondFragment">До второго</string>
+    <string name="titleSendDataToThirdFragment">До третьего</string>
+    <string name="lastDataFromSecondFragment">От второго ничего</string>
+    <string name="lastDataFromThirdFragment">От третьего ничего</string>
+    <string name="titleSecondFragment">Второй фрагмент</string>
+    <string name="titleSendDataToMainFragment">До первого</string>
+    <string name="buttonSendData">Отправить</string>
+    <string name="lastDataFromMainFragment">От первого ничего</string>
+    <string name="titleThirdFragment">Третий фрагмент</string>
+</resources>
